@@ -1,6 +1,6 @@
 site_name: Mechanika Mechanismů
 
-theme: readthedocs
+theme: material
 
 plugins:
   - search
